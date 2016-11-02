@@ -8,3 +8,18 @@ Cela nécessite de recomposer totalement la gestion de l'énergie pour la rendre
 
 Ce n'est pas une exposition de moyens de production d'énergie ou de monitoring de la consommation mais de vivre l'expérience de ce que sera le futur de l'énergie.
 
+Gras et italique
+
+je suis un peu gras s'écrit ** je suis un peu gras** je suis italique s'écrit *je suis italique* (ça se dit, ça?)
+
+ 
+s'écrit
+
+* à la claire fontaine
+
+* j'ai bu d'leau cristaline®
+Lien hypertexte
+
+lien vers multiBàO s'écrit [lien vers multiBàO](http://multibao.org)
+
+
